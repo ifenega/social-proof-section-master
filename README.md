@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ifenega/social-proof-section-master)
-- Live Site URL: [Add live site URL here](https://ifenega.github.io/social-proof-section-master/)
+- Solution URL: [https://github.com/ifenega/social-proof-section-master]
+- Live Site URL: [https://ifenega.github.io/social-proof-section-master/]
 
 ## My process
 
